@@ -2,8 +2,8 @@
 
 # 🎙️ Speech Emotion Recognizer (Day-23)
 
-[![Hugging Face Space](https://img.shields.io/badge/🤗 Open%20in%20Spaces-blue?logo=huggingface)](https://huggingface.co/spaces/maheshsmc2/d23-speech-emotion)
-[![GitHub Repo](https://img.shields.io/badge/📂 View%20on%20GitHub-black?logo=github)](https://github.com/maheshsmc2/d23-speech-emotion)
+[![Hugging Face Space](https://img.shields.io/badge/🤗 Open%20in%20Spaces-blue?logo=huggingface)][
+](https://huggingface.co/spaces/maheshsmc/d23-speech-emotion)[![GitHub Repo](https://img.shields.io/badge/📂 View%20on%20GitHub-black?logo=github)](https://github.com/maheshsmc2/d23-speech-emotion)
 [![Python Version](https://img.shields.io/badge/Python-3.10+-green?logo=python)](https://www.python.org/)
 [![Gradio](https://img.shields.io/badge/Gradio-4.44-orange?logo=gradio)](https://gradio.app/)
 [![Transformers](https://img.shields.io/badge/Transformers-4.44.2-yellow?logo=huggingface)](https://huggingface.co/docs/transformers)
